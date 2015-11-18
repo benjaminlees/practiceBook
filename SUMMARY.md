@@ -1,1 +1,1 @@
-* [ Our Stack ](info)
+* [ Our Stack ](info/chapter1.md)
